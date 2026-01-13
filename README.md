@@ -45,5 +45,8 @@ This dashboard provides a data-driven solution to monitor and improve supply cha
 - DAX – KPI calculations and custom measures  
 - Excel / CSV – Data source  
 
+## 🔗 Important links
+- Live PowerBi Desktop - https://app.powerbi.com/view?r=eyJrIjoiODZmYTA5MTMtZDE1Yy00ODg1LTk0ZDctNDVkNmRjMzM3NjRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+  
 
 
